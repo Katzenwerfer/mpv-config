@@ -1,6 +1,6 @@
 I use a large variety of shaders for testing and stuff
 
-I will list the links to download 'em here, since I don't know if it's ok to just upload the files (and I honestly don't want to if it is)
+I will list the links to download 'em here, since I don't know if it's ok to just upload the files (and I honestly don't want to know if it is)
 
 ## Shaders
 
