@@ -2,6 +2,8 @@
 
 This is just an archive of my current mpv setings, plugins, shaders, etc.
 
+If you want to use it make sure to change any system specific settings.
+
 ## Notes
 
 This config was tested in Windows 10
