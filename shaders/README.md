@@ -14,3 +14,4 @@ I will list the links to download 'em here, since I don't know if it's ok to jus
 - [adaptative-sharpen](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e)
 - [CAS](https://github.com/deus0ww/mpv-conf/tree/master/shaders/cas)
 - [KrigBilateral](https://gist.github.com/igv/a015fc885d5c22e6891820ad89555637)
+- [RAVU](https://github.com/bjin/mpv-prescalers)
