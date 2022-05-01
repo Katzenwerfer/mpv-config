@@ -6,7 +6,7 @@ If you want to use it make sure to change any system specific settings.
 
 ## Notes
 
-This config was tested in Windows 10
+This config was tested in Windows 11
 
 Recommended [MPV build](https://sourceforge.net/projects/mpv-player-windows/files/64bit/) (download latest)
 
