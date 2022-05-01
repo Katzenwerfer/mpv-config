@@ -2,14 +2,16 @@
 
 This is just an archive of my current mpv setings, plugins, shaders, etc.
 
-If you want to use it make sure to change any system specific settings.
+If you want to use it make sure to review it and change it according to your setup.
 
 ## Notes
 
-This config was tested in Windows 11
+This config was mostly tested in Windows 11.
 
 Recommended [MPV build](https://sourceforge.net/projects/mpv-player-windows/files/64bit/) (download latest)
 
-Most of the stuff I use (shaders, flags,...) require a considerably good hardware
+Alternative [MPV build](https://jeremylee.sh/bins/mpv.7z)
+
+Most of the stuff I use require a considerably good hardware.
 
 ### This [config](https://github.com/Tsubajashi/mpv-settings) could be better for general use. Mine is more of a personal archive :p
