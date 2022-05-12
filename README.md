@@ -8,6 +8,8 @@ If you want to use it make sure to review it and change it according to your set
 
 This config was mostly tested in Windows 11.
 
+I use my own builds
+
 Recommended [MPV build](https://sourceforge.net/projects/mpv-player-windows/files/64bit/) (download latest)
 
 Alternative [MPV build](https://jeremylee.sh/bins/mpv.7z)
