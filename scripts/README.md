@@ -3,3 +3,4 @@
 - [copyTime.lua](https://github.com/Arieleg/mpv-copyTime/blob/master/copyTime.lua)
 - [motioninterpolation.vpy](https://gist.github.com/phiresky/4bfcfbbd05b3c2ed8645)
 - [MPV-SMTC](https://github.com/x0wllaar/MPV-SMTC)
+- [seek-to.lua](https://github.com/occivink/mpv-scripts/blob/master/scripts/seek-to.lua)
