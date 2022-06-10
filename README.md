@@ -6,14 +6,4 @@ If you want to use it make sure to review it and change it according to your set
 
 ## Notes
 
-This config was mostly tested in Windows 11.
-
-I use my own builds
-
-Recommended [MPV build](https://sourceforge.net/projects/mpv-player-windows/files/64bit/) (download latest)
-
-Alternative [MPV build](https://jeremylee.sh/bins/mpv.7z)
-
-Most of the stuff I use require a considerably good hardware.
-
-### This [config](https://github.com/Tsubajashi/mpv-settings) could be better for general use. Mine is more of a personal archive :p
+mpv-android-leading-edge builds provided by the AV1 discord server
