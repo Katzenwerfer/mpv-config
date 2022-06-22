@@ -1,4 +1,4 @@
-# Katzenwerfer's mpv config
+# Katzenwerfer's [mpv player](https://github.com/mpv-player/mpv) config
 
 This is just an archive of my current mpv setings, plugins, shaders, etc.
 
