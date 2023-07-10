@@ -14,8 +14,6 @@ Recommended [MPV build](https://sourceforge.net/projects/mpv-player-windows/file
 
 Alternative [MPV build](https://jeremylee.sh/bins/mpv.7z)
 
-Also a [cool font](https://github.com/Genbuchan/KarasumaGothic) that I use for the whole UI
+I like using [Karasuma Gothic](https://github.com/Genbuchan/KarasumaGothic) or [Monocraft](https://github.com/IdreesInc/Monocraft) for the UI
 
 Most of the stuff I use require a considerably good hardware.
-
-### This [config](https://github.com/Tsubajashi/mpv-settings) could be better for general use. Mine is more of a personal archive :p
