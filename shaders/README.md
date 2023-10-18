@@ -19,3 +19,4 @@ I will list the links to download 'em here, since I don't know if it's ok to jus
 - [RAVU](https://github.com/bjin/mpv-prescalers)
 - [saturation.glsl](https://github.com/chz-90/VideoEnhance/blob/master/glsl/saturation.glsl)
 - [misc shaders](https://github.com/haasn/gentoo-conf/tree/xor/home/nand/.mpv/shaders/)
+- [2x_AnimeJaNai](https://github.com/the-database/mpv-upscale-2x_animejanai)
