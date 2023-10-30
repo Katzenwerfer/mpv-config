@@ -6,3 +6,4 @@
 - [MPV-SMTC](https://github.com/x0wllaar/MPV-SMTC) || [MPVMediaControl](https://github.com/datasone/MPVMediaControl)
 - [seek-to.lua](https://github.com/occivink/mpv-scripts/blob/master/scripts/seek-to.lua)
 - [mpv-youtube-quality ](https://github.com/jgreco/mpv-youtube-quality)
+- [cycle-adevice.lua](https://gist.github.com/bitingsock/ad58ee5da560ecb922fa4a867ac0ecfd)
